@@ -1,0 +1,244 @@
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll.config
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.pdb
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CoreCompileInputs.cache
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CopyComplete
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.dll
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.pdb
+D:\Freelancer\. Net ASP\webcafe\webbansach\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csprojAssemblyReference.cache
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll.config
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.pdb
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csprojAssemblyReference.cache
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CoreCompileInputs.cache
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CopyComplete
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.dll
+D:\Freelancer\. Net ASP\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.pdb
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll.config
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.pdb
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csprojAssemblyReference.cache
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CoreCompileInputs.cache
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CopyComplete
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.dll
+D:\Freelancer\. Net ASP\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.pdb
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll.config
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\WebsiteBanCafe.pdb
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.exe
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.exe.config
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csc.rsp
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csi.exe
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\csi.rsp
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.AppContext.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Collections.Immutable.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\System.Reflection.Metadata.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.exe.config
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\vbc.rsp
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\roslyn\VBCSCompiler.exe.config
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.Mvc.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Helpers.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Mvc.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Razor.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\EntityFramework.SqlServer.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.Core.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\PagedList.Mvc.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Razor.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Deployment.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Webpages.Razor.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Helpers.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\bin\System.Web.Mvc.xml
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csprojAssemblyReference.cache
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CoreCompileInputs.cache
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.csproj.CopyComplete
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.dll
+D:\.NET\WebsiteBanCafe\webcafe\WebsiteBanDoGiaDung\obj\Release\WebsiteBanCafe.pdb

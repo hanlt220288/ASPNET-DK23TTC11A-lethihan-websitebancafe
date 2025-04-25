@@ -1,0 +1,28 @@
+﻿@model IEnumerable<WebsiteBanCafe.Models.MSlider>
+<div id="sync1" class="owl-carousel" style="margin-top:-9px;width:900px" >
+    @{int index = 0;}
+    @foreach (var s in Model)
+    {
+        if (index == 0)
+        {
+            <div class="item synced">
+                <a href="~/@Url">
+                    <img src="~/Public/images/sliders/@s.Image" alt="@s.Name" width="900px" height="370px">
+                </a>
+            </div>
+        }
+        else
+        {
+            <div class="item ">
+                <a href="~/@Url">
+                    <img src="~/Public/images/sliders/@s.Image" alt="@s.Name" width="900px" height="370px">
+                </a>
+            </div>
+        }
+        index++;
+    }
+</div>
+<!-- sua dong 1475 prev next show btn owl.carourel.js-->
+<!-- synced = active -->
+
+

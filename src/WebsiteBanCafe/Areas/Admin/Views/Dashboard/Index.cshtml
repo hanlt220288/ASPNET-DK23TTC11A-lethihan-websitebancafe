@@ -1,0 +1,121 @@
+﻿
+@{ ViewBag.Title = "Dashboard";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml"; }
+
+@{ int role = Convert.ToInt32(Session["Admin_Role"]); }
+@if (role == 3)
+{ }
+else {<ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+
+    <li class="nav-item has-treeview">
+        <a href="~/Admin/Category/Index" class="nav-link">
+            <i class="fas fa-copyright nav-icon"></i>
+            <p>
+                Thống kê tổng quát
+                <i class="fas fa-angle-left right"></i>
+            </p>
+        </a>
+        <ul class="nav nav-treeview">
+            <section class="content">
+                <div class="container-fluid">
+
+                    <div class="row">
+                        <div class="col-lg-3 col-6">
+                            <div class="" style="background-color:#e98024;border-radius:5px;padding:10px; height: 150px;margin-bottom: 20px">
+                                <div class="inner">
+                                    <h3 style="color:white;font-size:30px;font-weight:bold">@ViewBag.CountOrderCancel</h3>
+                                    <p style="color:white;font-size:27px;font-weight:bold">Đơn hàng chưa xử lý</p>
+                                </div>
+                                <div class="icon">
+                                    <i class="ion ion-bag"></i>
+                                </div>
+                                <a href="~/Admin/Order/Index" class="small-box-footer"><span style="color:white;font-size:25px;font-weight:bold">Danh sách<i class="fas fa-arrow-circle-right" style="margin-left:10px"></i></span></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-6">
+                            <div class="" style="background-color:#a2855D;border-radius:5px;padding:10px; height: 150px;margin-bottom: 20px">
+                                <div class="inner">
+                                    <h3 style="color:white;font-size:30px;font-weight:bold">@ViewBag.CountOrderPending</h3>
+                                    <p style="color:white;font-size:27px;font-weight:bold">Đơn hàng đang giao</p>
+                                </div>
+                                <div class="icon">
+                                    <i class="ion ion-bag"></i>
+                                </div>
+                                <a href="~/Admin/Order/Index" class="small-box-footer"><span style="color:white;font-size:25px;font-weight:bold">Danh sách<i class="fas fa-arrow-circle-right" style="margin-left:10px"></i></span></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-6">
+                            <div class="" style="background-color:#191919;border-radius:5px;padding:10px; height: 150px;margin-bottom: 20px">
+                                <div class="inner">
+                                    <h3 style="color:white;font-size:30px;font-weight:bold">@ViewBag.CountOrderSuccess<sup style="font-size: 20px"></sup></h3>
+
+                                    <p style="color:white;font-size:22px;font-weight:bold">Đơn hàng đã thanh toán</p>
+                                </div>
+                                <div class="icon">
+                                    <i class="ion ion-stats-bars"></i>
+                                </div>
+                                <a href="~/Admin/Order/Index" class="small-box-footer"><span style="color:white;font-size:25px;font-weight:bold">Danh sách<i class="fas fa-arrow-circle-right" style="margin-left:10px"></i></span></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-6">
+                            <div class="" style="background-color:#0084cb;border-radius:5px;padding:10px; height: 150px;margin-bottom: 20px">
+                                <div class="inner">
+                                    <h3 style="color:white;font-size:30px;font-weight:bold">@ViewBag.Doanhthu<sup style="font-size: 20px"></sup></h3>
+
+                                    <p style="color:white;font-size:27px;font-weight:bold">Số đồ uống bán ra</p>
+                                </div>
+                                <div class="icon">
+                                    <i class="ion ion-stats-bars"></i>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-6">
+                            <div class="" style="background-color:#e98024;border-radius:5px;padding:10px; height: 150px;margin-bottom: 20px">
+                                <div class="inner">
+                                    <h3 style="color:white;font-size:30px;font-weight:bold">@ViewBag.Doanhth VND<sup style="font-size: 20px"></sup></h3>
+
+                                    <p style="color:white;font-size:27px;font-weight:bold">Lợi nhuận đạt được</p>
+                                </div>
+                                <div class="icon">
+                                    <i class="ion ion-stats-bars"></i>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-6">
+                            <div class="" style="background-color:#a2855d;border-radius:5px;padding:10px; height: 150px;margin-bottom: 20px">
+                                <div class="inner">
+                                    <h3 style="color:white;font-size:30px;font-weight:bold">@ViewBag.CountUser</h3>
+                                    <p style="color:white;font-size:27px;font-weight:bold">Thành viên</p>
+                                </div>
+                                <div class="icon">
+                                    <i class="ion ion-person-add"></i>
+                                </div>
+                                <a href="~/Admin/User/Index" class="small-box-footer"><span style="color:white;font-size:25px;font-weight:bold">Danh sách<i class="fas fa-arrow-circle-right" style="margin-left:10px"></i></span></a>
+                            </div>
+                        </div>
+                        <div class="col-lg-3 col-6">
+                            <div class="" style="background-color:#191919;border-radius:5px;padding:10px; height: 150px;margin-bottom: 20px">
+                                <div class="inner">
+                                    <h3 style="color:white;font-size:30px;font-weight:bold">@ViewBag.CountContactDoneReply</h3>
+                                    <p style="color:white;font-size:27px;font-weight:bold">Liên hệ chưa trả lời</p>
+                                </div>
+                                <div class="icon">
+                                    <i class="ion ion-pie-graph"></i>
+                                </div>
+                                <a href="~/Admin/Contact/Index" class="small-box-footer"><span style="color:white;font-size:25px;font-weight:bold">Danh sách<i class="fas fa-arrow-circle-right" style="margin-left:10px"></i></span></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </ul>
+    </li>
+
+</ul> }
+
+                <div class="content-header">
+                    <img src="https://file.hstatic.net/1000075078/file/store_lhp_vt_master.jpg" style="width:100%;height:100%" />
+
+                </div>

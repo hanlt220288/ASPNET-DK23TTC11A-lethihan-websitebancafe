@@ -1,0 +1,80 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Đăng nhập trang quản trị</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="~/Public/Admin/css/all.min.css" rel="stylesheet" />
+    <link href="~/Public/Admin/css/adminlte.min.css" rel="stylesheet" />
+    <link href="~/Public/Admin/css/font-sans.pro.css" rel="stylesheet" />
+    <link href="~/Public/Admin/css/toastr.min.css" rel="stylesheet" />
+</head>
+<body class="hold-transition login-page">
+    <div class="h-100 w-100 position-absolute" style="background-image:url(https://thumbs.dreamstime.com/b/coffee-background-enjoy-drink-concept-copyspace-188245947.jpg);background-size: 100% auto; z-index:-1;"></div>
+    <div class="overlay justify-content-center align-items-center d-none bg-secondary w-100 h-100 position-absolute" style="z-index:1; opacity:.3"><i class="fas fa-2x fa-sync fa-spin"></i></div>
+    <div class="login-box" style="margin-top:-100px">
+        <div class="login-logo">
+            <img src="https://alojob.vn/Img/Recruiter_Cover/43-The%20coffee%20house-107429486141011849.jpg" class="d-block rounded-circle mx-auto" width="100%" />
+            
+        </div>
+        <div class="card">
+            <div class="card-body login-card-body rounded">
+                <p class="login-box-msg">
+                   
+                </p>
+                <form method="POST">
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control" placeholder="Tài khoản" name="username" value="">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-envelope"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        <input type="password" class="form-control" placeholder="Mật khẩu" name="password" value="">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-7">
+                            <div class="icheck-primary">
+                                <input type="checkbox" id="remember">
+                                <label for="remember">
+                                    <small class="font-weight-bold"> Lưu mật khẩu</small>
+                                </label>
+                            </div>
+                        </div>
+                        <div class="col-5">
+                            <button type="submit" class="btn-login btn btn-primary btn-block" id="btn-login">Đăng nhập</button>
+                        </div>
+                    </div>
+                </form>
+
+                
+
+            </div>
+        </div>
+    </div>
+
+    <script src="~/Public/Admin/js/jquery.min.js"></script>
+    <script src="~/Public/Admin/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Public/Admin/js/toastr.min.js"></script>
+    <script src="~/Public/Admin/js/adminlte.min.js"></script>
+    <script src="~/Public/Admin/js/karma.laclac.min.js"></script>
+
+</body>
+</html>
+

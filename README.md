@@ -5,3 +5,9 @@
 Tạo các folder repository
 Tạo source code bằng Visual Studio 2022
 Xây dựng các khung giao diện
+
+# 25/04/2025
+Tạo các model entity
+Tạo các bảng và các thuộc tính cơ sở dữ liệu
+Kết nối cơ sở dữ liệu
+Xây dựng các khung giao diện

@@ -1,0 +1,280 @@
+﻿@if (Session["User_Name"] == null)
+{
+    <button type="button" class="button_login" data-toggle="modal" data-target=".bd-example-modal-lg"
+            data-whatever="getbootstrap" data-backdrop="static" data-keyboard="false" style="background-color:white">
+        <span style="color: #A2855D;">Đăng nhập,</span> 
+    </button>
+    <!--<button type="button" class="button_dangky" data-toggle="modal" data-target="#examplePig">
+        <a href=""> Đăng ký thành viên</a>
+    </button>
+    -->
+    <button type="button" class="button_dangky" data-toggle="modal" data-target="#exampleModal" data-backdrop="static"
+            data-keyboard="false" style="background-color:white">
+        <span style="color: #A2855D;">Đăng ký thành viên</span>
+    </button>
+}
+else
+{
+    
+    <div class="dropdown" style="font-size: 14px;">
+        <a class="text-light font-weight-bold dropdown-toggle" href="~/account/profile" id="navbarDropdown" role="button"
+           data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <span style="color:#A2855D">Account</span> 
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown" style="font-size: 15px;background-color:#A2855D">
+
+            @*<a class="dropdown-item border-bottom mb-1" href="admin/">
+                    <i class="fas fa-caret-right text-secondary"></i>&nbsp
+                    Trang
+                    quản trị
+                </a>*@
+
+            <a  class="dropdown-item border-bottom my-1">@Session["User_Name"]</a>
+            <a class="dropdown-item border-bottom my-1" href="~/account/order">
+                <i class="fas fa-caret-right text-secondary"></i>&nbsp Đơn hàng
+            </a>
+            <a class="dropdown-item" href="~/account/userlogout?url=@(HttpContext.Current.Request.Url.AbsolutePath)"><i class="fas fa-sign-out-alt"></i> Đăng xuất</a>
+        </div>
+    </div>
+}
+
+
+
+@**@
+
+
+
+<!-- Modal Register-->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+     aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog" role="document" style="min-width:720px;">
+        <div class="modal-content">
+            <div class="modal-header" style="background:#A2855D">
+                <h5 class="modal-title text-light" id="exampleModalLabel">
+                    <i class="fas fa-user-plus"></i>
+                    Đăng ký tài khoản
+                </h5>
+                <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row  mx-1">
+                    <div class="col-7">
+                        <form method="POST">
+                            <div class="form-row">
+                                <div class="col-md-12 mb-3">
+                                    <label class="text-muted mini-s-c pl-2">Họ và tên</label>
+                                    <input type="text" class="form-control ten" placeholder="" value="" required
+                                           name="ten" id="FullName">
+                                    <div class="invalid-feedback">
+                                        Tên không được trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-md-12 mb-3">
+                                    <label class="text-muted mini-s-c pl-2">Tên truy cập</label>
+                                    <input type="text" class="form-control ten" placeholder="" value="" required
+                                           name="ten" id="Name">
+                                    <div class="invalid-feedback">
+                                        Tên truy cập không được trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-md-12 mb-3">
+                                    <label class="text-muted mini-s-c pl-2">Email</label>
+                                    <input type="email" class="form-control email" placeholder="" value="" required
+                                           name="Email" id="Email">
+                                    <div class="invalid-feedback">
+                                        Email không được để trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-md-12 mb-3">
+                                    <label class="text-muted mini-s-c pl-2">Địa chỉ</label>
+                                    <input type="text" class="form-control address" placeholder="" value="" required
+                                           name="Address" id="Address">
+                                    <div class="invalid-feedback">
+                                        Địa chỉ không được để trống
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-row">
+                                <div class="col-md-12 mb-3">
+                                    <label class="text-muted mini-s-c pl-2">Số điện thoại</label>
+                                    <input type="number" class="form-control valiphone Phone8" id="valiphone"
+                                           placeholder="" required name="phone">
+                                    <div class="invalid-feedback invalid-feedback-valiphone">
+                                        Số điện thoại đã được đăng ký
+                                    </div>
+                                </div>
+                                <div class="col-md-12 mb-3">
+                                    <label class="mini-s-c text-muted pl-2">Mật khẩu</label>
+                                    <input type="password" class="form-control pass-res" placeholder="" required
+                                           name="pass" id="Pass">
+                                </div>
+                                <div class="col-md-12 mb-3">
+                                    <label class="mini-s-c text-muted pl-2">Xác nhận lại mật khẩu</label>
+                                    <input type="password" class="form-control pl-2  repass-res" placeholder=""
+                                           required name="repass">
+                                    <div class="invalid-feedback">
+                                        <!--is-invalid-->
+                                        Mật khẩu không khớp. Hãy thử lại.
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-check">
+                                    <input class="form-check-input" type="checkbox" value="" id="invalidCheck3" style="background-color:#A2855D"
+                                           required checked>
+                                    <label class="form-check-label mini-s-c" for="invalidCheck3">
+                                        Tôi đồng ý với các điều khoản dịch vụ
+                                    </label>
+                                </div>
+                            </div>
+                            <button class="btn btn-primary mini-s-c" id="btn_register" type="submit" style="background-color:#A2855D;border-color:#A2855D">
+                                Đăng
+                                ký
+                            </button>
+                        </form>
+                    </div>
+                    <div class="col-5" style="margin-top:-10px">
+                        <img src="https://media4.giphy.com/media/W0QpYVQmywpW23ROPg/source.gif" alt="E" width="200" class="d-block m-auto pt-5">
+                        <img src=" https://brasol.vn/public/uploads/1571294450-logo-the-coffee-house.jpg" alt="E" width="200" class="d-block m-auto pt-5">
+                        <img src="  https://image.freepik.com/free-vector/coffee-house-logo-design_148584-55.jpg" alt="E" width="200" class="d-block m-auto pt-5">
+                       
+
+                    </div>
+                </div>
+            </div>
+            <hr />
+            <div class="row clearfix mx-4 mt-1 mb-3">
+                <div class="col-6" style="color:#4a90e2; font-size: 12px;">
+                    <button data-toggle="modal" data-target=".bd-example-modal-lg" data-whatever="getbootstrap" class="dn-lg text-primary"
+                            style="border:0; background:#fff">
+                        <span style="font-weight:bold;color:#A2855D">Đăng nhập</span>
+                    </button>
+                    | <a href=""><span style="font-weight:bold;color:#A2855D">Quên mật khẩu</span></a>
+                </div>
+                <div class="col-4"></div>
+                <div class="col-2" style="margin-top:-10px">
+                    <button type="button" class=" px-4 btn btn-secondary" data-dismiss="modal" style="background-color:#A2855D">
+                        Đóng
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $('#btn_register').click(function (e) {
+        e.preventDefault();
+        @*alert("OK")*@
+        $.ajax({
+            url: "account/register",
+            type: "POST",
+            data: {
+                user: {
+                    Email: $('#Email').val(),
+                    Address: $('#Address').val(),
+                    FullName: $('#FullName').val(),
+                    Name: $('#Name').val(),// dùng tạm, sau xóa luôn cột này đi
+                    Password: $('#Pass').val(),
+                    Phone: $('.Phone8').val(),
+                }
+            },
+            dataType: 'json',
+            success: function (data) {
+                if (data.Code == 0) {
+                    $('#exampleModal').modal("hide")
+                    swal({
+                        icon: "success",
+                        title: data.Message,
+                        timer: 5000
+                    });
+                    return;
+                } else if(data.Code == 1) {
+                    swal({
+                        icon: "warning",
+                        title: data.Message,
+                        timer: 5000
+                    });
+                    return;
+                }
+                swal({
+                    icon: "warning",
+                    title: data.Message,
+                    timer: 5000
+                });
+            }
+        })
+    })
+</script>
+
+
+<!-- Modal Login-->
+<div class="modal fade bd-example-modal-lg" id="exampleModal1" tabindex="-1" role="dialog"
+     aria-labelledby="exampleModalLabel" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog modal-lg" role="document" style="width:500px">
+        <div class="modal-content">
+            <div class="modal-header" style="background:#A2855D">
+                <h5 class="modal-title text-light" id="exampleModalLabel">
+                    <i class="fas fa-sign-in-alt"></i>
+                    Đăng nhập
+                </h5>
+                <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="">
+                <div class="">
+                    
+                    <div class="py-3">
+                        <form method="POST" class="shop">
+                            <div class="form-group" style="width:300px;margin-left:100px">
+                                <label style="font-size: 13px;">Tài khoản</label>
+                                <input type="text" class="form-control" aria-describedby="emailHelp"
+                                       placeholder="" name="Name" value="">
+                                <small id="nameHelp" class="pl-1 form-text text-danger"></small>
+                            </div>
+                            <div class="form-group" style="width:300px;margin-left:100px">
+                                <label style="font-size: 13px;">Mật khẩu</label>
+                                <input type="password" class="form-control" placeholder="" name="Password" value="">
+                                <small id="passHelp" class="pl-1 form-text text-danger"></small>
+                            </div>
+                            <div class="row">
+                                <div class="col-5" style="margin-left:170px">
+                                    <button id="btn_login_c" class="btn btn-primary mt-1 float-left  mb-3" style="background-color:#A2855D">
+                                        Đăng nhập
+                                    </button>
+                                </div>
+                                
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                
+            </div>
+            <hr />
+            <div class="row clearfix mx-4 mt-2 mb-3" style="margin-top:-40px">
+                <div class="col-6" style="color:#4a90e2; font-size: 12px;">
+                    <button data-toggle="modal" data-target="#exampleModal" class="dk-lg text-primary"
+                            style="border:0; background:#fff">
+                        <span style="font-weight:bold;color:#A2855D">Đăng ký</span>
+                    </button>
+                    | <a href=""><span style="font-weight:bold;color:#A2855D">Quên mật khẩu</span></a>
+                </div>
+                <div class="col-4"></div>
+                <div class="col-2" style="margin-top:-15px;margin-left:-20px">
+                    <button type="button" class="text-center rounded-0 py-1 px-4 btn btn-dark"
+                            data-dismiss="modal" style="background-color:#A2855D">
+                        Đóng
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
