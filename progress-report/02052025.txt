@@ -1,0 +1,4 @@
+# 02/05/2025
+Tạo các controller
+Viết các hàm xử lý các chức năng trong controller
+Thực hiện thêm sửa xóa dữ liệu trong controller
