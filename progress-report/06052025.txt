@@ -1,0 +1,7 @@
+# 06/05/2025
+Liên kết các bảng,trường trong cơ sở dữ liệu
+Xử lý hiển lấy dữ liệu từ database ra
+Thêm dữ liệu vào database từ controller
+Sửa dữ liệu vào database từ controller
+Xóa dữ liệu vào database từ controller
+Gửi dữ liệu lên giao diện để hiển thị ra
