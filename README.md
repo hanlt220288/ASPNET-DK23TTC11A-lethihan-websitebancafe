@@ -38,3 +38,12 @@ Sửa dữ liệu vào database từ controller
 Xóa dữ liệu vào database từ controller
 
 Gửi dữ liệu lên giao diện để hiển thị ra
+
+# 09/05/2025
+Hoàn thiện các giao diện trang web
+
+Hoàn thiện các chức năng
+
+Hoàn thiện cơ sở dữ liệu
+
+Cập nhật file báo cáo word
