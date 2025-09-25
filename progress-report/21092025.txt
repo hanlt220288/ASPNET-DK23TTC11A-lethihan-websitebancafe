@@ -1,4 +1,4 @@
-# 06/05/2025
+# 21/09/2025
 Liên kết các bảng,trường trong cơ sở dữ liệu
 Xử lý hiển lấy dữ liệu từ database ra
 Thêm dữ liệu vào database từ controller
